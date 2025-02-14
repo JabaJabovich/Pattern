@@ -1,0 +1,8 @@
+1 Bob Smith Sun phone=+79891214092 telegram=@sdasd email=smth@get.ru git=chino34/git 
+2 Bobb Smith Sun phone=+79891214092 telegram=@sdasd email=smth@get.ru git=chino34/git 
+3 Abobbb Amith Aun phone=+79891214092 telegram=@sdasd email=smth@get.ru git=chino34/git 
+4 Bobbbb Smith Sun phone=+79891214092 telegram=@sdasd email=smth@get.ru git=chino34/git 
+6 Asds Msd Fssd 
+7 Fsds Asd Ese 
+8 Ruk Menga Liv phone=+79891214082 telegram=@sdasd email=smth@get.ru git=chino34/git 
+9 Rul Menga Liv phone=+79891214082 telegram=@sdasd email=smth@get.ru git=chino34/git 
